@@ -23,7 +23,7 @@
 <li>انسخ اسم المستخدم وكلمة المرور إلى ملف env ،:لتصبح الإعدادات كالتالي</li>
 </ol>
 
-<pre>
+<pre dir="ltr">
 MAIL_DRIVER=smtp
 MAIL_HOST=smtp.mailtrap.io
 MAIL_PORT=2525
