@@ -7,7 +7,7 @@
 </div>
 
 <h2> خطوات التثبيت </h2>
-<ul>
+<ul dir="ltr">
 <li><code>git clone https://github.com/HsoubAcademy/laravel-cms</code></li>
 <li><code>composer install</code></li>
 <li><code>php artisan migrate</code></li>
