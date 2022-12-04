@@ -99,7 +99,7 @@
                     </li>
                 </ul>
             </div>
-        <div>
+        
   </nav>
 
   <!-- /.content-wrapper-->
