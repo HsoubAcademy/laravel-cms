@@ -80,3 +80,4 @@
             </li>
         @endguest
     </ul>
+</div>
